@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @albsjs
-- 👀 Looking to start out in the world of Programming, building myself up to start a new career!
-- 🌱 I’m currently learning how to use HTML, CSS and Python. I have lots of ground to cover!
+- 👋 Hello, I’m @albsjs
+- 👀 Looking for my first role in software development to start a career. 
+- 🌱 Having gotten to grips with HTML and CSS, I'm now learning Javascript.
 - 📫 How to reach me, best done through github 
 
 <!---
