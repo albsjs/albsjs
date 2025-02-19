@@ -1,7 +1,7 @@
-👋 Hello, I’m Albert, a passionate Backend Software Engineer actively seeking new opportunities. I specialize in building scalable and efficient backend systems using Python and JavaScript. I also have experience in crafting responsive frontend interfaces with HTML and CSS.
+👋 Hello, I’m Albert, a passionate Backend Software Engineer actively. I specialize in building scalable and efficient backend systems using Python and JavaScript. I also have experience in crafting responsive frontend interfaces with HTML and CSS.
 
 
-- 👀 Looking for work and new opportunities
+- 👀 Looking for work seeking new opportunities
 - 📫 Reach out to me: albert.jack.smith@gmail.com 
 
 
