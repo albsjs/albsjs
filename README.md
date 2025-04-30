@@ -1,4 +1,4 @@
-👋 Hello, I’m Albert, a passionate Backend Software Engineer chiefly working in Python. I specialize in building scalable and efficient backend systems I also have experience in crafting responsive frontend interfaces with HTML and CSS.
+👋 Hello, I’m Albert, a passionate Backend Software Engineer chiefly working in Python. I specialise in building scalable and efficient backend systems I also have experience in crafting responsive frontend interfaces with HTML and CSS.
 
 
 - 👀 Looking for work
