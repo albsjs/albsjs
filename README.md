@@ -1,15 +1,19 @@
-👋 Hello, I’m Albert, a passionate Backend Software Engineer actively. I specialize in building scalable and efficient backend systems using Python and JavaScript. I also have experience in crafting responsive frontend interfaces with HTML and CSS.
+👋 Hello, I’m Albert, a passionate Backend Software Engineer chiefly working in Python. I specialize in building scalable and efficient backend systems I also have experience in crafting responsive frontend interfaces with HTML and CSS.
 
 
-- 👀 Looking for work seeking new opportunities
-- 📫 Reach out to me: albert.jack.smith@gmail.com 
+- 👀 Looking for work
+- 📫 Reach out to me: albert.jack.smith@gmail.com
+- 🇬🇧 Based in the UK
 
 
 🔧 Technical Skills:
 
-Backend: Python (Flask, Django), JavaScript (Node.js), RESTful APIs
-Frontend: HTML, CSS, basic JavaScript
+Backend: Python (Django), JavaScript (Node.js), RESTful APIs
+
+Frontend: JavaScript, HTML, CSS
+
 Databases: PostgreSQL, MySQL
+
 Tools: Git, Docker, CI/CD pipelines
 
 
@@ -18,7 +22,6 @@ Tools: Git, Docker, CI/CD pipelines
 
 🚀 I'm constantly learning and experimenting with new technologies to improve my coding skills and build solutions that solve real-world problems.
 
-Looking to connect with like-minded professionals and explore exciting job opportunities!
 
 
 <!---
