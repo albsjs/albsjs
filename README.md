@@ -4,6 +4,7 @@
 - 👀 Looking for work
 - 📫 Reach out to me: albert.jack.smith@gmail.com
 - 🇬🇧 Based in the UK
+- 🚀 I'm constantly learning and experimenting to improve my coding skills
 
 
 🔧 Technical Skills:
@@ -19,8 +20,6 @@ Tools: Git, Docker, CI/CD pipelines
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,docker,git)](https://skillicons.dev)
 
-
-🚀 I'm constantly learning and experimenting with new technologies to improve my coding skills and build solutions that solve real-world problems.
 
 
 
