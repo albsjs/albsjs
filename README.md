@@ -6,8 +6,7 @@
 - 🇬🇧 Based in the UK
 - 🚀 I'm constantly learning and experimenting to improve my coding skills
 
-
-🔧 Technical Skills:
+***🔧 Technical Skills:***
 
 Backend: Python (Django), JavaScript (Node.js), RESTful APIs
 
