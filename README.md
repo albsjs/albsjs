@@ -1,23 +1,15 @@
-👋 Hello, I’m Albert, a passionate Backend Software Engineer chiefly working in Python. I specialise in building scalable and efficient backend systems I also have experience in crafting responsive frontend interfaces with HTML and CSS.
-
-
-- 👀 Looking for work
-- 📫 Reach out to me: albert.jack.smith@gmail.com
-- 🇬🇧 Based in the UK
-- 🚀 I'm constantly learning and experimenting to improve my coding skills
+👋 Hello, I’m Albert, a passionate Backend Software Engineer working in Python. I enjoy trying to build scalable and efficient backend systems.
 
 ***🔧 Technical Skills:***
 
-Backend: Python (Django), JavaScript (Node.js), RESTful APIs
-
-Frontend: JavaScript, HTML, CSS
+Backend: Python (Django), RESTful APIs
 
 Databases: PostgreSQL, MySQL
 
 Tools: Git, Docker, CI/CD pipelines
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,docker,git,linux,apple)](https://skillicons.dev)
 
 
 
